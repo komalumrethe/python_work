@@ -1,0 +1,3 @@
+﻿first_name,last_name,email,username,password,is_superuser,is_staff,is_active
+piyush,deolasi,piyush@gmail.com,piyush@gmail.com,piyush1234,FALSE,FALSE,TRUE
+Vijay,Jadhav,vijay@gmail.com,vijay@gmail.com,vijay1234,FALSE,FALSE,TRUE
